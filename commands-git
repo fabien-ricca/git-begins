@@ -1,0 +1,6 @@
+pour cloner un repository : git clone lien_du_repo
+
+git add nom-du_fichier ou -A 
+git commit -m 'Message' 
+git push origin main
+
