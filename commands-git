@@ -1,8 +1,1 @@
-git clone lien-du-repo
-
-git add nom-du-fichier
-git commit -m "Message"
-git push origin main
-
-git branch no-de-la-branche
-git checkout -nom-de-la-branche
+Il était une fois une jeune Roupoutouille, elle savait comptait deux par deux et lacer ses chaussures.
