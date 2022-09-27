@@ -1,0 +1,6 @@
+git clone lien-du-repo
+
+git add nom-du-fichier
+git commit -m "Message"
+git push origin main
+
