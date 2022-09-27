@@ -1,0 +1,11 @@
+git clone lien-du-repo
+
+git add nom-du-fichier
+git commit -m "Message"
+git push origin main
+
+git pull nom-du-repo-distant nom-de-la-branche
+
+git branch no-de-la-branche
+git checkout -nom-de-la-branche
+
