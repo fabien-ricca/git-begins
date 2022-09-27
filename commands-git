@@ -4,3 +4,5 @@ git add nom-du-fichier
 git commit -m "Message"
 git push origin main
 
+git branch no-de-la-branche
+git checkout -nom-de-la-branche
